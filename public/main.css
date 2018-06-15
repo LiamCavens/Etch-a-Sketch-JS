@@ -1,0 +1,5 @@
+canvas {
+    border: 5px ridge grey;
+    border-radius: 3% 3% 3% 3%;
+    background-color: rgb(231, 52, 52);
+}
